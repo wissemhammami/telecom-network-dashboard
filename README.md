@@ -10,29 +10,29 @@ This project was developed as part of my second-year engineering internship at *
 
 The application is deployed and runs locally as a standalone desktop application. It is not publicly hosted due to data confidentiality requirements and internal project constraints.
 
-<figure>
-  <img src="docs/Interface%20and%20KPI%20s.png" width="800">
-  <figcaption>Interface and KPIs</figcaption>
+<figure style="text-align: center; margin: 0 0 32px;">
+  <img src="docs/Interface%20and%20KPI%20s.png" width="620">
+  <figcaption><strong>Interface and KPIs</strong></figcaption>
 </figure>
 
-<figure>
-  <img src="docs/KPI_evolution_forecast.png" width="800">
-  <figcaption>KPI Evolution &amp; Forecast</figcaption>
+<figure style="text-align: center; margin: 0 0 32px;">
+  <img src="docs/KPI_evolution_forecast.png" width="620">
+  <figcaption><strong>KPI Evolution &amp; Forecast</strong></figcaption>
 </figure>
 
-<figure>
-  <img src="docs/Region_clustering_by_KPI_profile.png" width="800">
-  <figcaption>Region Clustering by KPI Profile</figcaption>
+<figure style="text-align: center; margin: 0 0 32px;">
+  <img src="docs/Region_clustering_by_KPI_profile.png" width="620">
+  <figcaption><strong>Region Clustering by KPI Profile</strong></figcaption>
 </figure>
 
-<figure>
-  <img src="docs/Network_performance_map.png" width="800">
-  <figcaption>Network Performance Map</figcaption>
+<figure style="text-align: center; margin: 0 0 32px;">
+  <img src="docs/Network_performance_map.png" width="620">
+  <figcaption><strong>Network Performance Map</strong></figcaption>
 </figure>
 
-<figure>
-  <img src="docs/Mobile_Technology_Generation_share.png" width="800">
-  <figcaption>Mobile Technology Generation Share</figcaption>
+<figure style="text-align: center; margin: 0 0 32px;">
+  <img src="docs/Mobile_Technology_Generation_share.png" width="620">
+  <figcaption><strong>Mobile Technology Generation Share</strong></figcaption>
 </figure>
 
 ## Features
