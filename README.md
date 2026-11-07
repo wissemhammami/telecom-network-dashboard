@@ -10,15 +10,30 @@ This project was developed as part of my second-year engineering internship at *
 
 The application is deployed and runs locally as a standalone desktop application. It is not publicly hosted due to data confidentiality requirements and internal project constraints.
 
-<img src="docs/region_clustering.png" width="800">
+<figure>
+  <img src="docs/Interface%20and%20KPI%20s.png" width="800">
+  <figcaption>Interface and KPIs</figcaption>
+</figure>
 
-<img src="docs/PFA_Telecom.png" width="800">
+<figure>
+  <img src="docs/KPI_evolution_forecast.png" width="800">
+  <figcaption>KPI Evolution &amp; Forecast</figcaption>
+</figure>
 
-<img src="docs/PFA_5G.png" width="800">
+<figure>
+  <img src="docs/Region_clustering_by_KPI_profile.png" width="800">
+  <figcaption>Region Clustering by KPI Profile</figcaption>
+</figure>
 
-<img src="docs/Network%20Performance%20Dashboard.png" width="800">
+<figure>
+  <img src="docs/Network_performance_map.png" width="800">
+  <figcaption>Network Performance Map</figcaption>
+</figure>
 
-<img src="docs/Capture%20d%27%C3%A9cran%202026-11-07%20164903.png" width="800">
+<figure>
+  <img src="docs/Mobile_Technology_Generation_share.png" width="800">
+  <figcaption>Mobile Technology Generation Share</figcaption>
+</figure>
 
 ## Features
 
