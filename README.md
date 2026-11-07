@@ -12,27 +12,27 @@ The application is deployed and runs locally as a standalone desktop application
 
 <figure style="text-align: center; margin: 0 0 32px;">
   <img src="docs/Interface%20and%20KPI%20s.png" width="620">
-  <figcaption><strong>Interface and KPIs</strong></figcaption>
+  <figcaption style="display: block; margin-top: 16px;"><strong>Interface and KPIs</strong></figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 0 0 32px;">
   <img src="docs/KPI_evolution_forecast.png" width="620">
-  <figcaption><strong>KPI Evolution &amp; Forecast</strong></figcaption>
+  <figcaption style="display: block; margin-top: 16px;"><strong>KPI Evolution &amp; Forecast</strong></figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 0 0 32px;">
   <img src="docs/Region_clustering_by_KPI_profile.png" width="620">
-  <figcaption><strong>Region Clustering by KPI Profile</strong></figcaption>
+  <figcaption style="display: block; margin-top: 16px;"><strong>Region Clustering by KPI Profile</strong></figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 0 0 32px;">
   <img src="docs/Network_performance_map.png" width="620">
-  <figcaption><strong>Network Performance Map</strong></figcaption>
+  <figcaption style="display: block; margin-top: 16px;"><strong>Network Performance Map</strong></figcaption>
 </figure>
 
 <figure style="text-align: center; margin: 0 0 32px;">
   <img src="docs/Mobile_Technology_Generation_share.png" width="620">
-  <figcaption><strong>Mobile Technology Generation Share</strong></figcaption>
+  <figcaption style="display: block; margin-top: 16px;"><strong>Mobile Technology Generation Share</strong></figcaption>
 </figure>
 
 ## Features
