@@ -1,0 +1,8 @@
+python-portable/
+__pycache__/
+*.pyc
+uploads/
+output/
+.venv/
+.env
+*.csv
